@@ -4,7 +4,7 @@ Use this template if you need a quick developer / data science portfolio! Based 
 
 Test Test Test
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/Screen Shot 2019-08-06 at 6.27.02 PM.png?raw=true"/>
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
